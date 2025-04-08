@@ -42,6 +42,19 @@ router.post("/takeSAPData", validateEncryptedRequest, async (req, res, next) => 
 
 router.post("/allCalculations", validateEncryptedRequest, async (req, res, next) => {
    try {
+      const result = await callStoredProcedure("SP_AllCalculations2", req);
+      res.json({
+         success: true,
+         data: result
+      });
+   } catch (error) {
+      next(error);
+   }
+}
+); 
+
+router.post("/login", validateEncryptedRequest, async (req, res, next) => {
+   try {
       const result = await callStoredProcedure("SP_AllCalculations", req);
       res.json({
          success: true,
