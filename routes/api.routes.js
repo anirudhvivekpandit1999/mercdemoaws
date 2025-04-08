@@ -45,7 +45,7 @@ router.post("/allCalculations", validateEncryptedRequest, async (req, res, next)
       const result = await callStoredProcedure("SP_AllCalculations2", req);
       res.json({
          success: true,
-         data: result
+         data: result[0][0]
       });
    } catch (error) {
       next(error);
@@ -55,7 +55,7 @@ router.post("/allCalculations", validateEncryptedRequest, async (req, res, next)
 
 router.post("/login", validateEncryptedRequest, async (req, res, next) => {
    try {
-      const result = await callStoredProcedure("SP_AllCalculations", req);
+      const result = await callStoredProcedure("spd_Login", req);
       res.json({
          success: true,
          data: result
@@ -65,6 +65,20 @@ router.post("/login", validateEncryptedRequest, async (req, res, next) => {
    }
 }
 ); 
+
+router.post("/signUp", validateEncryptedRequest, async (req, res, next) => {
+   try {
+      const result = await callStoredProcedure("spd_SignUp", req);
+      res.json({
+         success: true,
+         data: result
+      });
+   } catch (error) {
+      next(error);
+   }
+}
+); 
+
 
 
 
