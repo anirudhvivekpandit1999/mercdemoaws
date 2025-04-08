@@ -28,7 +28,7 @@ router.get("/getRegulationDetails", async (req, res, next) => {
       // const result = await callStoredProcedure("spd_GetRegulationDetails", req);
       res.json({
          success: true,
-         data: encryptData(result[0])
+         data: encryptData(result[0][0])
       });
    } catch (error) {
       next(error);
