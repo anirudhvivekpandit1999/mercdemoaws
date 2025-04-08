@@ -23,7 +23,7 @@ router.get("/getRegulationDetails", async (req, res, next) => {
    let connection;
    try {
       connection = await pool.getConnection();
-      const query = `CALL spd_GetRegulations`;
+      const query = `CALL spd_GetRegulationDetails`;
       const result = await connection.execute(query)
       // const result = await callStoredProcedure("spd_GetRegulationDetails", req);
       res.json({
