@@ -1,6 +1,10 @@
 const express = require("express");
 const router = express.Router();
 const { callStoredProcedure } = require("../services/database.service");
+const dbConfig = require("../config/db.config");
+const { encryptData } = require("../utils/encryption.utils");
+const mysql = require("mysql2/promise");
+
 
 const validateEncryptedRequest = (req, res, next) => {
    if (!req.body || !req.body.encryptedData) {
@@ -11,15 +15,19 @@ const validateEncryptedRequest = (req, res, next) => {
    }
    next();
 };
+const pool = mysql.createPool(dbConfig);
 
 
 
-router.post("/getRegulationDetails", validateEncryptedRequest, async (req, res, next) => {
+router.get("/getRegulationDetails", async (req, res, next) => {
+   let connection;
    try {
-      const result = await callStoredProcedure("spd_GetRegulationDetails", req);
+      connection = await pool.getConnection();
+      const query = `CALL spd_GetRegulations`;
+      // const result = await callStoredProcedure("spd_GetRegulationDetails", req);
       res.json({
          success: true,
-         data: result
+         data: encryptData(query)
       });
    } catch (error) {
       next(error);
