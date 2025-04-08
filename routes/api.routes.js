@@ -45,7 +45,7 @@ router.post("/allCalculations", validateEncryptedRequest, async (req, res, next)
       const result = await callStoredProcedure("SP_AllCalculations2", req);
       res.json({
          success: true,
-         data: result[0]
+         data: result
       });
    } catch (error) {
       next(error);
