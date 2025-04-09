@@ -18,7 +18,7 @@ async function callStoredProcedure(procedureName, req) {
     
     const [rows] = await connection.execute(query, replacements);
     
-    return rows.length > 0 ? encryptData(rows[0][0]) : { message: "No data found" };
+    return rows.length > 0 ? encryptData(rows[0]) : { message: "No data found" };
   } catch (error) {
     console.error(`Error executing ${procedureName}:`, error);
     throw new Error(`Database error: ${error.message}`);
