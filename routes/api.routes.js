@@ -119,4 +119,17 @@ router.post("/getUnitTags", validateEncryptedRequest, async (req, res, next) => 
 }
 ); 
 
+router.post("/getUnits", validateEncryptedRequest, async (req, res, next) => {
+   try {
+      const result = await callStoredProcedure("spd_GetUnits", req);
+      res.json({
+         success: true,
+         data: result
+      });
+   } catch (error) {
+      next(error);
+   }
+}
+); 
+
 module.exports = router;
