@@ -108,7 +108,7 @@ router.post("/getECR", validateEncryptedRequest, async (req, res, next) => {
 
 router.post("/getUnitTags", validateEncryptedRequest, async (req, res, next) => {
    try {
-      const result = await callStoredProcedure("spd_ECRModel", req);
+      const result = await callStoredProcedure("spd_GetUnitTag", req);
       res.json({
          success: true,
          data: result
