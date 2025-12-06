@@ -1,0 +1,1098 @@
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 174,
+  senValue: 0,
+  FeedDataId: 267895,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348991')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 175,
+  senValue: 0,
+  FeedDataId: 267896,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348992')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 175,
+  senValue: 0,
+  FeedDataId: 267896,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348992')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 176,
+  senValue: 0,
+  FeedDataId: 267897,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348993')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 176,
+  senValue: 0,
+  FeedDataId: 267897,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348993')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 177,
+  senValue: 0,
+  FeedDataId: 267898,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348994')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 177,
+  senValue: 0,
+  FeedDataId: 267898,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348994')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 178,
+  senValue: 0,
+  FeedDataId: 267899,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348995')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 178,
+  senValue: 0,
+  FeedDataId: 267899,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348995')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 179,
+  senValue: 0,
+  FeedDataId: 267900,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348996')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 179,
+  senValue: 0,
+  FeedDataId: 267900,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348996')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 180,
+  senValue: 0,
+  FeedDataId: 267901,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348997')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 180,
+  senValue: 0,
+  FeedDataId: 267901,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348997')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 181,
+  senValue: 0,
+  FeedDataId: 267902,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348998')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 181,
+  senValue: 0,
+  FeedDataId: 267902,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348998')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 182,
+  senValue: 0,
+  FeedDataId: 267903,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348999')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 182,
+  senValue: 0,
+  FeedDataId: 267903,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed42348999')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 183,
+  senValue: 0,
+  FeedDataId: 267904,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899a')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 183,
+  senValue: 0,
+  FeedDataId: 267904,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899a')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 184,
+  senValue: 0,
+  FeedDataId: 267905,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899b')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 184,
+  senValue: 0,
+  FeedDataId: 267905,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899b')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 185,
+  senValue: 0,
+  FeedDataId: 267906,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899c')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 185,
+  senValue: 0,
+  FeedDataId: 267906,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899c')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 186,
+  senValue: 0,
+  FeedDataId: 267907,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899d')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 186,
+  senValue: 0,
+  FeedDataId: 267907,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899d')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 187,
+  senValue: 0,
+  FeedDataId: 267908,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899e')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 187,
+  senValue: 0,
+  FeedDataId: 267908,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899e')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 188,
+  senValue: 0,
+  FeedDataId: 267909,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899f')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 188,
+  senValue: 0,
+  FeedDataId: 267909,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed4234899f')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 189,
+  senValue: 0,
+  FeedDataId: 267910,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 189,
+  senValue: 0,
+  FeedDataId: 267910,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 190,
+  senValue: 0,
+  FeedDataId: 267911,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 190,
+  senValue: 0,
+  FeedDataId: 267911,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 191,
+  senValue: 0,
+  FeedDataId: 267912,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 191,
+  senValue: 0,
+  FeedDataId: 267912,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 192,
+  senValue: 0,
+  FeedDataId: 267913,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 192,
+  senValue: 0,
+  FeedDataId: 267913,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 193,
+  senValue: 0,
+  FeedDataId: 267914,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 193,
+  senValue: 0,
+  FeedDataId: 267914,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 194,
+  senValue: 0,
+  FeedDataId: 267915,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 194,
+  senValue: 0,
+  FeedDataId: 267915,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 195,
+  senValue: 0,
+  FeedDataId: 267916,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 195,
+  senValue: 0,
+  FeedDataId: 267916,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 196,
+  senValue: 0,
+  FeedDataId: 267917,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 196,
+  senValue: 0,
+  FeedDataId: 267917,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 197,
+  senValue: 0,
+  FeedDataId: 267918,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 197,
+  senValue: 0,
+  FeedDataId: 267918,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 198,
+  senValue: 0,
+  FeedDataId: 267919,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 198,
+  senValue: 0,
+  FeedDataId: 267919,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489a9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 199,
+  senValue: 0,
+  FeedDataId: 267920,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489aa')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 199,
+  senValue: 0,
+  FeedDataId: 267920,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489aa')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 200,
+  senValue: 0,
+  FeedDataId: 267921,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ab')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 200,
+  senValue: 0,
+  FeedDataId: 267921,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ab')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 201,
+  senValue: 0,
+  FeedDataId: 267922,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ac')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 201,
+  senValue: 0,
+  FeedDataId: 267922,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ac')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 202,
+  senValue: 0,
+  FeedDataId: 267923,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ad')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 202,
+  senValue: 0,
+  FeedDataId: 267923,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ad')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 203,
+  senValue: 0,
+  FeedDataId: 267924,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ae')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 203,
+  senValue: 0,
+  FeedDataId: 267924,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ae')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 204,
+  senValue: 0,
+  FeedDataId: 267925,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489af')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 204,
+  senValue: 0,
+  FeedDataId: 267925,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489af')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 205,
+  senValue: 0,
+  FeedDataId: 267926,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 205,
+  senValue: 0,
+  FeedDataId: 267926,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 206,
+  senValue: 0,
+  FeedDataId: 267927,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 206,
+  senValue: 0,
+  FeedDataId: 267927,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 207,
+  senValue: 0,
+  FeedDataId: 267928,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 207,
+  senValue: 0,
+  FeedDataId: 267928,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 208,
+  senValue: 0,
+  FeedDataId: 267929,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 208,
+  senValue: 0,
+  FeedDataId: 267929,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 209,
+  senValue: 0,
+  FeedDataId: 267930,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 209,
+  senValue: 0,
+  FeedDataId: 267930,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 210,
+  senValue: 0,
+  FeedDataId: 267931,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 210,
+  senValue: 0,
+  FeedDataId: 267931,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 211,
+  senValue: 0,
+  FeedDataId: 267932,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 211,
+  senValue: 0,
+  FeedDataId: 267932,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 212,
+  senValue: 0,
+  FeedDataId: 267933,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 212,
+  senValue: 0,
+  FeedDataId: 267933,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 213,
+  senValue: 0,
+  FeedDataId: 267934,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 213,
+  senValue: 0,
+  FeedDataId: 267934,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 214,
+  senValue: 0,
+  FeedDataId: 267935,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 214,
+  senValue: 0,
+  FeedDataId: 267935,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489b9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 215,
+  senValue: 0,
+  FeedDataId: 267936,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ba')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 215,
+  senValue: 0,
+  FeedDataId: 267936,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ba')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 216,
+  senValue: 0,
+  FeedDataId: 267937,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bb')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 216,
+  senValue: 0,
+  FeedDataId: 267937,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bb')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 217,
+  senValue: 0,
+  FeedDataId: 267938,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bc')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 217,
+  senValue: 0,
+  FeedDataId: 267938,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bc')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 218,
+  senValue: 0,
+  FeedDataId: 267939,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bd')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 218,
+  senValue: 0,
+  FeedDataId: 267939,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bd')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 219,
+  senValue: 0,
+  FeedDataId: 267940,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489be')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 219,
+  senValue: 0,
+  FeedDataId: 267940,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489be')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 220,
+  senValue: 0,
+  FeedDataId: 267941,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bf')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 220,
+  senValue: 0,
+  FeedDataId: 267941,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489bf')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 221,
+  senValue: 0,
+  FeedDataId: 267942,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 221,
+  senValue: 0,
+  FeedDataId: 267942,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 222,
+  senValue: 0,
+  FeedDataId: 267943,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 222,
+  senValue: 0,
+  FeedDataId: 267943,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 223,
+  senValue: 0,
+  FeedDataId: 267944,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 223,
+  senValue: 0,
+  FeedDataId: 267944,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 224,
+  senValue: 0,
+  FeedDataId: 267945,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 224,
+  senValue: 0,
+  FeedDataId: 267945,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 225,
+  senValue: 0,
+  FeedDataId: 267946,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 225,
+  senValue: 0,
+  FeedDataId: 267946,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 226,
+  senValue: 0,
+  FeedDataId: 267947,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 226,
+  senValue: 0,
+  FeedDataId: 267947,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 227,
+  senValue: 0,
+  FeedDataId: 267948,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 227,
+  senValue: 0,
+  FeedDataId: 267948,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c6')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 228,
+  senValue: 0,
+  FeedDataId: 267949,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 228,
+  senValue: 0,
+  FeedDataId: 267949,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c7')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 229,
+  senValue: 0,
+  FeedDataId: 267950,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 229,
+  senValue: 0,
+  FeedDataId: 267950,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c8')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 230,
+  senValue: 0,
+  FeedDataId: 267951,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 230,
+  senValue: 0,
+  FeedDataId: 267951,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489c9')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 231,
+  senValue: 0,
+  FeedDataId: 267952,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ca')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 231,
+  senValue: 0,
+  FeedDataId: 267952,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ca')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 232,
+  senValue: 0,
+  FeedDataId: 267953,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cb')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 232,
+  senValue: 0,
+  FeedDataId: 267953,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cb')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 233,
+  senValue: 0,
+  FeedDataId: 267954,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cc')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 233,
+  senValue: 0,
+  FeedDataId: 267954,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cc')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 234,
+  senValue: 0,
+  FeedDataId: 267955,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cd')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 234,
+  senValue: 0,
+  FeedDataId: 267955,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cd')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 235,
+  senValue: 0,
+  FeedDataId: 267956,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ce')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 235,
+  senValue: 0,
+  FeedDataId: 267956,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489ce')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 236,
+  senValue: 0,
+  FeedDataId: 267957,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cf')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 236,
+  senValue: 0,
+  FeedDataId: 267957,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489cf')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 237,
+  senValue: 0,
+  FeedDataId: 267958,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 237,
+  senValue: 0,
+  FeedDataId: 267958,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d0')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 238,
+  senValue: 0,
+  FeedDataId: 267959,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 238,
+  senValue: 0,
+  FeedDataId: 267959,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d1')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 239,
+  senValue: 0,
+  FeedDataId: 267960,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 239,
+  senValue: 0,
+  FeedDataId: 267960,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d2')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 240,
+  senValue: 0,
+  FeedDataId: 267961,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 240,
+  senValue: 0,
+  FeedDataId: 267961,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d3')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 241,
+  senValue: 0,
+  FeedDataId: 267962,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 241,
+  senValue: 0,
+  FeedDataId: 267962,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d4')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 242,
+  senValue: 0,
+  FeedDataId: 267963,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d5')
+}
+Existing document already has a higher or equal senValue for: {
+  panelId: 1,
+  spotId: 242,
+  senValue: 0,
+  FeedDataId: 267963,
+  createdAt: 2025-09-09T09:27:10.514Z,
+  _id: new ObjectId('68bff2eeea5c70ed423489d5')
+}
+MongoDb connected
+MongoDb connected Switchgears_Panel Panel_Master
